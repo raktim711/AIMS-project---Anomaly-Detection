@@ -1,0 +1,15 @@
+{
+  "T": 25,
+  "n_events_after_df_cut": 3679,
+  "n_graphs_total": 2471,
+  "n_bkg_graphs_total": 327,
+  "n_sig_graphs_total": 2144,
+  "n_train_bkg": 208,
+  "n_val_bkg": 53,
+  "n_test_bkg": 66,
+  "n_test_sig": 2144,
+  "best_val_loss": 75.33300018310547,
+  "auc": 0.9824103912256897,
+  "model_path": "/content/drive/MyDrive/Datasets/plots/GNN_unsupervised/Znunu/T_25GeV/gae_state_dict.pth",
+  "exp_dir": "/content/drive/MyDrive/Datasets/plots/GNN_unsupervised/Znunu/T_25GeV"
+}
