@@ -1,0 +1,15 @@
+{
+  "T": 45,
+  "n_events_after_df_cut": 11070,
+  "n_graphs_total": 5415,
+  "n_bkg_graphs_total": 1000,
+  "n_sig_graphs_total": 4415,
+  "n_train_bkg": 640,
+  "n_val_bkg": 160,
+  "n_test_bkg": 200,
+  "n_test_sig": 4415,
+  "best_val_loss": 1.8891500234603882,
+  "auc": 1.0,
+  "model_path": "/content/drive/MyDrive/Datasets/plots/GNN_unsupervised/hh_bbbb_vbf_novhh_5fs_l1cvv1cv1/T_45GeV/gae_state_dict.pth",
+  "exp_dir": "/content/drive/MyDrive/Datasets/plots/GNN_unsupervised/hh_bbbb_vbf_novhh_5fs_l1cvv1cv1/T_45GeV"
+}
