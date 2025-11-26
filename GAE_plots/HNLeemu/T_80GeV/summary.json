@@ -1,0 +1,15 @@
+{
+  "T": 80,
+  "n_events_after_df_cut": 10928,
+  "n_graphs_total": 2437,
+  "n_bkg_graphs_total": 1564,
+  "n_sig_graphs_total": 873,
+  "n_train_bkg": 1000,
+  "n_val_bkg": 251,
+  "n_test_bkg": 313,
+  "n_test_sig": 873,
+  "best_val_loss": 0.19712235406041145,
+  "auc": 0.9997328444019923,
+  "model_path": "/content/drive/MyDrive/Datasets/plots/GNN_unsupervised/HNLeemu/T_80GeV/gae_state_dict.pth",
+  "exp_dir": "/content/drive/MyDrive/Datasets/plots/GNN_unsupervised/HNLeemu/T_80GeV"
+}
